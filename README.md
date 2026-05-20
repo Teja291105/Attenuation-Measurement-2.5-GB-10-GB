@@ -82,3 +82,9 @@ Your report should contain:
   
 
 - **Written Summary** of observations and explanations of differences.  
+<img width="1373" height="1600" alt="WhatsApp Image 2026-05-20 at 9 13 44 AM" src="https://github.com/user-attachments/assets/aa4af45e-416c-420b-a9db-3336768921ad" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-05-20 at 9 13 57 AM" src="https://github.com/user-attachments/assets/cb264b85-e199-4db2-814e-d395eda253a2" />
+
+## Result
+Thus the Experiment was succesfully completed and output is verified
+
